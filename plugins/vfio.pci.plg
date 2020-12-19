@@ -6,7 +6,7 @@
 <!ENTITY md5 "ac741514fa0dcca9351a93e688dbd274">
 <!ENTITY launch "Settings/VfioPci">
 <!ENTITY plugdir "/usr/local/emhttp/plugins/&name;">
-<!ENTITY github "Skitals/unraid-vfio-pci">
+<!ENTITY github "zhuksmu/unraid-vfio-pci">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/master/plugins/&name;.plg">
 ]>
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" icon="microchip" min="6.7.0" support="https://forums.unraid.net/topic/87411-plugin-vfio-pci-config/">
